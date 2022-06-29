@@ -60,7 +60,7 @@ div {
     position: relative;
     margin: 0 auto;
     margin-top: 1.28rem;
-    height: 32.288rem;
+    height: 30rem;
     width: 20.64rem;
     background-color: #fdfcfc;
     padding-top: 1.344rem;
@@ -126,7 +126,7 @@ div {
 }
 .car {
     position: absolute;
-    bottom: 1.4rem;
+    bottom: 2rem;
     width: 20.64rem;
 }
 .main .car img{
@@ -152,7 +152,7 @@ div {
 .footer {
     width: 7.52rem;
     height: 1.8rem;
-    border: 1.5px solid #fdfcfc;
+    border: 1px solid #fdfcfc;
     margin: 0 auto;
     margin-top: 1.6rem;
     border-radius: .5rem;
